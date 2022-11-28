@@ -1,3 +1,3 @@
 document.querySelector("h1").addEventListener("click", function (){
-  document.body.style.color = "red";
+  document.body.style.color = "pink";
 });
